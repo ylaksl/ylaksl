@@ -1,7 +1,5 @@
-## 🪐 Hi there 👋
+## 🪐 Hi there 👋 I'm Ylana, a undergraduate student in physics in Brazil 🌴
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ylaksl)
-
-## I'm Ylana, a undergraduate student in physics in Brazil 🌴
 
 - 🔭 I’m currently working on with stellar and exoplanetary astrophysics ✨️
   
