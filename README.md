@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ylaksl)
 
 I'm Ylana! 
 
