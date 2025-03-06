@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on with stellar and exoplanetary astrophysics ✨️
   
-- 🌱 I’m currently studying obervational tecniques and planet's formation 🌌
+- 🌱 I’m currently studying obervational tecniques and planet's formation and interaction with its host star 🌌
   
 - 💬 Ask me about anything really
   
